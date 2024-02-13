@@ -18,6 +18,8 @@ Steps in project include -
 
 -Define queries to filter fraudulent calls.
 
+-We have used telcogenerator file for generating real time calls data.
+
 
 ![Screenshot (27)](https://github.com/Erkeshav7/Fraud-call-detection-on-azure/assets/55995277/bc5b9ace-0464-46a8-bb37-68bc8bd1dd37)
 
